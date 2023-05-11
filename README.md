@@ -12,7 +12,7 @@ cd StudyBud
 ```
 -> Create a virtual environment : 
 ```
-# Let's install virtualenv first 
+# Let's install virtualenv 
 pip install virtualenv
 # Then we create our virtual environment
 virtualenv envname
