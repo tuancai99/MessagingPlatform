@@ -8,7 +8,7 @@ git clone https://github.com/tuancai99/StudyBud.git
 ```
 -> Move into the directory where we have the project files :
 ``` 
-cd StudyBud 
+cd MessagingPlatform 
 ```
 -> Create a virtual environment : 
 ```
