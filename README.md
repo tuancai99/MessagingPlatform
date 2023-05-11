@@ -4,7 +4,7 @@ The purpose of this project is to create an instant messaging social platform th
 ## Cloning the repository :outbox_tray:
 -> Clone the repository using the command below :
 ``` 
-git clone https://github.com/tuancai99/StudyBud.git
+git clone https://github.com/tuancai99/MessagingPlatform.git
 ```
 -> Move into the directory where we have the project files :
 ``` 
